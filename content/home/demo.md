@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "lightgrey"
   
   # Background gradient.
-  gradient_start = "grey"
-  gradient_end = "lightgrey"
+  #  gradient_start = "grey"
+  # gradient_end = "lightgrey"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
